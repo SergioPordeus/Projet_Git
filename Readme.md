@@ -30,3 +30,7 @@ git branch -M   (Mudar o nome da Branch Marster para Main)
                 CRIAR A CONTA NO GITHUB E CRIAR UM NOVO REPOSITORIO
                 COPIAR O LINK GERADO E INSERIR O COMANDO NO TERMINAL BASH LOCAL
                     EX: git remote add origin https://github.com/SergioPordeus/Projet_Git.git
+
+
+CRIANDO UMA ALTERACAO NO PROJETO E UM NOVO ARQUIVO.
+
