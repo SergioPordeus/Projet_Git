@@ -32,5 +32,7 @@ git branch -M   (Mudar o nome da Branch Marster para Main)
                     EX: git remote add origin https://github.com/SergioPordeus/Projet_Git.git
 
 
-CRIANDO UMA ALTERACAO NO PROJETO E UM NOVO ARQUIVO.
+
+Alt
+CRIANDO UMA ALTERACAO NO PROJETO E UM NOVO ARQUIVO....
 
